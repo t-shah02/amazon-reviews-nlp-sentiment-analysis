@@ -127,7 +127,3 @@ This will generate classification reports and scores for the Bayes models, displ
 ## ⚠️ Spark Warning
 
 Running Spark jobs requires significant memory and may not be suitable for machines with limited resources. If you are an SFU student, faculty member, or staff, consider using CSIL if you wish to run Spark jobs. Otherwise, you can choose the Pandas option for data processing.
-
-## 🎓 University Project
-
-This project is part of a university course (CMPT 353) and is intended for educational purposes.
